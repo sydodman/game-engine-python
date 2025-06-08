@@ -1,0 +1,140 @@
+﻿gameCounter,functionToCall,dayCounter,competitionID,,
+1,Create New Fixture List,,,1,
+1,Create Team Attributes,,,2,
+1,Initialize Cup Status,,,3,
+1,Draw Cup,3,10,4,Draw Community Shield
+1,Draw Cup,"4,5",6,5,Draw League Cup Round 1
+2,Play League Matches,1,,6,2
+3,Play League Matches,2,,7,3 to 45
+4,Play League Matches,3,,8,46-48
+4,Play Cup Round,3,10,9,49
+5,Play Cup Round,4,6,10,50 to 78
+6,Play Cup Round,5,6,11,79 to 85
+6,Update Cup Status,"4, 5",6,12,
+7,Add LC Round2 Teams,,,13,
+7,Draw Cup,"20,21",6,14,Draw League Cup Round 2
+8,Play League Matches,6,,15,86
+9,Play League Matches,7,,16,87 to 140
+10,Play League Matches,8,,17,141-142
+11,Play League Matches,9,,18,143
+12,Play League Matches,10,,19,144 to 178
+13,Play League Matches,11,,20,179
+14,Play League Matches,12,,21,180 to 181
+15,Play League Matches,13,,22,182 to 232
+16,Play League Matches,14,,23,233 to 235
+17,Play League Matches,15,,24,236
+18,Play League Matches,16,,25,237 to 241
+19,Play League Matches,17,,26,242 to 290
+20,Play League Matches,18,,27,291 to 294
+21,Play League Matches,19,,28,295 to 306
+22,Draw European Group Stage,"31,32,44,45,56,57,69,70,82,83,96,97",9,29,Draw UCL Groups
+22,Draw European Group Stage,"33,46,58,71,84,98",8,30,Draw EL Groups
+23,Play Cup Round,20,6,31,307 to 325
+24,Play Cup Round,21,6,32,326-330
+24,Update Cup Status,"20, 21",6,33,
+24,Add LC Round3 Teams,,,34,
+24,Draw Cup,"38,39,58,71,84,98",6,35,Draw League Cup Round 3
+25,Play League Matches,22,,36,331
+26,Play League Matches,23,,37,332 to 384
+27,Play League Matches,24,,38,385 to 387
+28,Play League Matches,25,,39,388
+29,Play League Matches,26,,40,389 to 413
+30,Play League Matches,27,,41,414 to 416
+31,Play League Matches,28,,42,417 to 467
+32,Play League Matches,29,,43,468 to 470
+33,Play League Matches,30,,44,471
+34,Play League Matches,31,,45,472 to 500
+35,Play League Matches,32,,46,501 to 514
+36,Play League Matches,33,,47,515 to 530
+37,Play League Matches,34,,48,531
+38,Play League Matches,35,,49,532 to 580
+39,Play League Matches,36,,50,581 to 587
+40,Play League Matches,37,,51,588
+41,Play League Matches,38,,52,589 to 600
+42,Play Cup Round,38,6,53,601 to 607
+43,Play Cup Round,39,6,54,608 to 616
+44,Update Cup Status,"38,39",6,55,
+45,Draw Cup,"63,64",6,56,Draw League Cup Round 4
+46,Play League Matches,40,,57,617
+47,Play League Matches,41,,58,618 to 617
+48,Play League Matches,42,,59,672 to 673
+49,Play League Matches,43,,60,674 to 675
+50,Play League Matches,44,,61,676 to 723
+51,Play League Matches,45,,62,724 to 738
+52,Play League Matches,46,,63,739 to 754
+53,Play League Matches,47,,64,755
+54,Play League Matches,48,,65,756 to 807
+55,Play League Matches,49,,66,808 to 811
+56,Play League Matches,50,,67,812
+57,Play League Matches,51,,68,813 to 827
+58,Draw Cup,"65,66,67",7,69,Draw FA Cup Round 1
+59,Play League Matches,52,,70,828 to 829
+60,Play League Matches,53,,71,830 to 879
+61,Play League Matches,54,,72,880
+62,Play League Matches,55,,73,881
+63,Play League Matches,56,,74,882 to 931
+64,Play League Matches,57,,75,932 to 945
+65,Play League Matches,58,,76,946 to 961
+66,Play League Matches,59,,77,962
+67,Play League Matches,60,,78,963 to 1012
+68,Play League Matches,61,,79,1013 to 1018
+69,Play League Matches,62,,80,1019
+70,Play League Matches,63,,81,1020 to 1024
+71,Play Cup Round,63,6,82,1025 to 1026
+72,Play League Matches,64,,83,1027
+73,Play Cup Round,64,6,84,1028 to 1033
+74,Update Cup Status,"63,64",6,85,
+75,Draw Cup,"103,104",6,86,Draw League Cup QF
+76,Play League Matches,65,,87,1034
+77,Play Cup Round,65,7,88,1035 to 1037
+78,Play League Matches,66,,89,1038 to 1055
+79,Play Cup Round,66,7,90,1056 to 1087
+80,Play League Matches,67,,91,1088 to 1090
+81,Play Cup Round,67,7,92,1091 to 1095
+82,Update Cup Status,"65,66,67",7,93,
+83,Draw Cup,"85,86,87,88,89,96",7,94,Draw FA Cup R2
+84,Play League Matches,68,,95,1096
+85,Play League Matches,69,,96,1097 to 1109
+86,Play League Matches,70,,97,1110 to 1117
+87,Play League Matches,71,,98,1118 to 1133
+88,Play League Matches,72,,99,1134
+89,Play League Matches,73,,100,1135 to 1186
+90,Play League Matches,74,,101,1187 to 1191
+91,Play League Matches,75,,102,1192 to 1214
+92,Play League Matches,76,,103,1215 to 1224
+93,Play League Matches,77,,104,1225
+94,Play League Matches,78,,105,1226
+95,Play League Matches,79,,106,1227 to 1280
+96,Play League Matches,80,,107,1281 to 1282
+97,Play League Matches,81,,108,1283
+98,Play League Matches,82,,109,1284 to 1321
+99,Play League Matches,83,,110,1322 to 1335
+100,Play League Matches,84,,111,1336 to 1351
+101,Play League Matches,85,,112,1352
+102,Play Cup Round,85,7,113,1353 to 1354
+103,Play League Matches,86,,114,1355 to 1373
+104,Play Cup Round,86,7,115,1374 to 1383
+105,Play League Matches,87,,116,1384 to 1389
+106,Play Cup Round,87,7,117,1390 to 1393
+107,Play Cup Round,88,7,118,1394
+108,Play League Matches,89,,119,1395 to 1396
+109,Play Cup Round,89,7,120,1397
+110,Play League Matches,90,,121,1398 to 1404
+111,Play League Matches,91,,122,1405 to 1406
+112,Play League Matches,92,,123,1407
+113,Play League Matches,93,,124,1408 to 1442
+114,Play League Matches,94,,125,1443 to 1446
+115,Play League Matches,95,,126,1447
+116,Play League Matches,96,,127,1448 to 1464
+117,Play Cup Round,96,7,128,1455 to 1456
+118,Update Cup Status,"85,86,87,88,89,96",7,129,
+119,Play League Matches,97,,130,1465 to 1478
+120,Play League Matches,98,,131,1479 to 1494
+121,Play League Matches,99,,132,1495
+122,Play League Matches,100,,133,1496 to 1545
+122,Play League Matches,101,,134,1546 to 1550
+123,Play League Matches,102,,135,1551
+124,End CL Groups,"152,153,159,160,172,173,179,180",9,136,
+125,End EL Groups,"154,161",8,137,
+126,Play Cup Round,"103,104",6,138,1552 to 1555
+127,Update Cup Status,"103,104",6,139,
