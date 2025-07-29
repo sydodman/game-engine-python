@@ -160,3 +160,22 @@ gameCounter,functionToCall,dayCounter,competitionID,,
 145,Update Cup Status,"117, 118, 119, 120, 121",7,159,
 146,Draw Cup,"135, 136, 137, 138, 139",7,160,Draw FA Cup R4
 147,Play League Matches,122,,161,1795 to 1816
+148,Draw Two Leg Fixture,"122, 123, 133, 134",6,162,Draw LC Semi Finals
+149,Play Two Leg Round,122,6,163,1817
+150,Play League Matches,123,,164,1818
+151,Play Two Leg Round,123,6,165,1819
+152,Play League Matches,124,,166,1820 to 1821
+153,Play League Matches,125,,167,1822 to 1855
+154,Play League Matches,126,,168,1856 to 1858
+155,Play League Matches,127,,169,1859
+156,Play League Matches,128,,170,1860 to 1861
+157,Play League Matches,129,,171,1862
+158,Play League Matches,130,,172,1863 to 1889
+159,Play League Matches,131,,173,1890 to 1892
+160,Play League Matches,132,,174,1893 to 1894
+161,Play League Matches,133,,175,1895 to 1911
+162,Play Two Leg Round,133,6,176,1912
+163,Play League Matches,134,,177,1913 to 1914
+164,Play Two Leg Round,134,6,178,1915
+165,Update Cup Status,"133, 134",6,179,
+166,Draw Cup,164,6,180,Draw LC Final
